@@ -7,7 +7,7 @@ A consumer wants to do basically 3 things:
 - Get credentials to use the selected API and test them 
 - Check the consumption of the APIs used in his/her applications
 
-Consumer could also use API Manager. Still, **API Manager is intended to be the provider interface and API Manager the consumer interface** and this is why API Portal exist.
+Consumer could also use API Manager. Still, **API Manager is intended to be the provider interface and API Portal the consumer interface** and this is why API Portal exist.
 
 API Portal's greatest advantage compared to API Manager is its customization capabilities. It includes branding, catalog customization and even federation of multiple API Manager. 
 
