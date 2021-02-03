@@ -27,7 +27,7 @@ Note : The analytics license allows to show monitoring dashboards in API Manager
 ### Access VM
 
 Virtual machine is exported in VMware format. To use it:  
-- run on your laptop: use VMware Workstation [i.e: VMware Player 15](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0) or above.
+- run on your laptop: use VMware Workstation, [VMware Player 15](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0) or above.
 - run on a ESX (VMware infrastructure)
 
 Virtual machine can be accessed
