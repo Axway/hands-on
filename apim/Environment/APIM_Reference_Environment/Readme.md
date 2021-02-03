@@ -11,7 +11,7 @@ A complete user guide is provided along the virtual machine. This section will f
 ### Licenses
 
 - For internal usage (Axway employees), the environment is delivered with valid internal licenses for API Gateway and Decision Insight.
-- For external usage (partners or customers), ask your your Axway alliance/account manager for API Management and API analytics demonstration licenses (Not For Resale).
+- For external usage (partners or customers), ask your Axway alliance/account manager for API Management and API analytics demonstration licenses (Not For Resale).
 
 Place all the API Gateway licenses into this folder : 
 /opt/Axway/APIM/apigateway/conf/licenses
@@ -27,7 +27,7 @@ Note : The analytics license allows to show monitoring dashboards in API Manager
 ### Access VM
 
 Virtual machine is exported in VMware format. To use it:  
-- run on your laptop: use VMware Workstation 12, or [VMware Player 7](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_player/7_0) or above.
+- run on your laptop: use VMware Workstation [i.e: VMware Player 15](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0) or above.
 - run on a ESX (VMware infrastructure)
 
 Virtual machine can be accessed
@@ -35,7 +35,7 @@ Virtual machine can be accessed
 - with terminal server (rdp). Use mstsc command on Windows or download a free rdp client on Mac
 - with ssh, port 22 or 10022: for commandline
 
-The recommended approach is to use VMware desktop, since everything you for the scenarios is inside the virtual machine.
+The recommended approach is to use VMware desktop, since everything you need for the scenarios is inside the virtual machine.
 
 #### User
 
